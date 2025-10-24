@@ -1,0 +1,9 @@
+# Klasörlerinizi dışarıda bırakın
+scikit-learn_repo/  # ÇOK BÜYÜK: 500 MB+ olabilir. Asla commit etmeyin.
+venv/               # Sanal ortam
+data/               # Tüm CSV dosyalarınızı dışarıda bırakın.
+
+# Diğer gereksiz dosyalar
+__pycache__/
+*.pyc
+*.DS_Store
